@@ -50,6 +50,12 @@ requests, beautifulsoup, urljoin, load_dotenv, os 등등 추후 추가 에쩡
 2. 외부 사람들도 사용할 수 있을 정도로 업데이트 된다면 앱이나 프로그램을 따로 출시하고 수익 창출 또는 장학금 받고 학교에 판매
    (단, 발생한 수익의 일부는 운영 자금으로 쓰이고 나머지는 불우한 이웃을 위해 기부금으로 사용)
 
+[보고 공부할 유튜브 영상 또는 사이트]
+
+Selenium으로 홈페이지 맘대로 주무르기: https://www.youtube.com/watch?v=_gkhgS33QIc&list=PLZOm4uzWk9WMF9P44dZeS9KSGOETdy515&index=6
+
+PYAUTOGUI로 네이버 로그인 해보기: https://www.youtube.com/watch?v=GfFzW9jt_GI&list=PLZOm4uzWk9WMF9P44dZeS9KSGOETdy515&index=2
+
 <hr>
 
 #### readme 작성관련 참고하기 [바로가기](https://heropy.blog/2017/09/30/markdown/)
